@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Tyler! 👋
 
-<!--
-**tyleris-irish/tyleris-irish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌍 Based in: Florida
+- 💼 Currently working at: University of Central Florida IT (UCF IT)
+- 🌱 Currently learning: Cyber Security, AI
+- 💬 Ask me about: Python, Board Games, and Networking
+
+## Technologies & Tools
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![Terraform](https://img.shields.io/badge/-HCL-333333?style=flat&logo=terraform)
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/tylerryan00/)
+
+Thanks for visiting my profile! 😊
