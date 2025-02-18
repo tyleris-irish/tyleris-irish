@@ -14,9 +14,3 @@ Welcome to my GitHub profile!
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![Terraform](https://img.shields.io/badge/-HCL-333333?style=flat&logo=terraform)
-
-## Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/tylerryan00/)
-
-Thanks for visiting my profile! 😊
