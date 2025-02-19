@@ -13,3 +13,4 @@ Welcome to my GitHub profile!
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Terraform](https://img.shields.io/badge/-HCL-333333?style=flat&logo=terraform)
+![VMware](https://img.shields.io/badge/-VMware-333333?style=flat&logo=vmware)
