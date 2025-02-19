@@ -12,5 +12,4 @@ Welcome to my GitHub profile!
 ## Technologies & Tools
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![Terraform](https://img.shields.io/badge/-HCL-333333?style=flat&logo=terraform)
