@@ -6,7 +6,7 @@ Welcome to my GitHub profile!
 
 - 🌍 Based in: Florida
 - 💼 Currently working at: University of Central Florida IT (UCF IT)
-- 🌱 Currently learning: Cyber Security, AI
+- 🌱 Currently learning: Cyber Security, AI, Cloud Engineering
 - 💬 Ask me about: Python, Board Games, and Networking
 
 ## Technologies & Tools
